@@ -67,3 +67,6 @@
 [submodule "_vim/bundle/pydiction"]
 	path = _vim/bundle/pydiction
 	url = git@github.com:rkulla/pydiction.git
+[submodule "_vim/bundle/vundle"]
+	path = _vim/bundle/vundle 
+	url = git@github.com:gmarik/vundle.git
