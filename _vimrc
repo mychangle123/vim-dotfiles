@@ -431,3 +431,4 @@ function! InsertHtmlTag()
 endfunction
 inoremap > <ESC>:call InsertHtmlTag()<CR>a
 let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dicct'
+let g:ropevim_loaded = 1
